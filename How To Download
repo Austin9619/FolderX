@@ -1,0 +1,59 @@
+📥 How to Download (For Non-Programmers)
+
+You do NOT need to know programming or use Git to download this project.
+
+Step-by-Step Instructions
+
+Click the green Code button near the top of this page
+
+In the menu that opens, click Download ZIP
+
+Wait for the download to finish
+
+Locate the ZIP file on your computer (usually in Downloads)
+
+Right-click the ZIP file and choose Extract All
+
+Open the extracted folder
+
+That’s it — the project is now downloaded.
+
+🖥️ How to Run the Program
+
+⚠️ This project is a C# console application and requires a Windows PC.
+
+Requirements
+
+Windows
+
+.NET SDK installed
+
+Download here: https://dotnet.microsoft.com/download
+
+Running the App
+
+Open the extracted folder
+
+Open the file ending in .sln (Solution file)
+
+If prompted, allow Visual Studio to open the project
+
+Press Run (or press F5)
+
+A console window will open and the program will start.
+
+❓ If You Get Stuck
+
+If you’re not familiar with Visual Studio or .NET:
+
+That’s okay — this project is primarily for learning
+
+Feel free to open an Issue on GitHub and describe what you’re stuck on or DM me on discord @ Austin9675
+
+📝 Important Notes
+
+This project does not include a pre-compiled .exe (yet)
+
+The source code is provided for learning and experimentation
+
+No changes will be made to your system by downloading this project
